@@ -1,6 +1,6 @@
 ### Running on development 
 
-    - we use Parcel
+    - we use Parcel [https://parceljs.org/]
 
     - To run : parcel index.html
 
@@ -8,6 +8,8 @@
 
     - and play with html.
 
+### Source
 
+    - 
 
 
