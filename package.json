@@ -1,0 +1,8 @@
+{
+  "name": "edm-hashmicro",
+  "version": "1.0.0",
+  "description": "blasting 10.000 new emails",
+  "main": "index.js",
+  "author": "Doel",
+  "license": "MIT"
+}
